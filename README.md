@@ -50,7 +50,7 @@ source ~/.zshrc
 runlog python script.py
 ```
 
-або:
+або
 
 ```bash
 logrun ls -la
